@@ -1,0 +1,12 @@
+/Users/adelamaceckova/living-world/engine/LivingWorld.Core/bin/Debug/net10.0/LivingWorld.Core.deps.json
+/Users/adelamaceckova/living-world/engine/LivingWorld.Core/bin/Debug/net10.0/LivingWorld.Core.dll
+/Users/adelamaceckova/living-world/engine/LivingWorld.Core/bin/Debug/net10.0/LivingWorld.Core.pdb
+/Users/adelamaceckova/living-world/engine/LivingWorld.Core/obj/Debug/net10.0/LivingWorld.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adelamaceckova/living-world/engine/LivingWorld.Core/obj/Debug/net10.0/LivingWorld.Core.AssemblyInfoInputs.cache
+/Users/adelamaceckova/living-world/engine/LivingWorld.Core/obj/Debug/net10.0/LivingWorld.Core.AssemblyInfo.cs
+/Users/adelamaceckova/living-world/engine/LivingWorld.Core/obj/Debug/net10.0/LivingWorld.Core.csproj.CoreCompileInputs.cache
+/Users/adelamaceckova/living-world/engine/LivingWorld.Core/obj/Debug/net10.0/LivingWorld.Core.sourcelink.json
+/Users/adelamaceckova/living-world/engine/LivingWorld.Core/obj/Debug/net10.0/LivingWorld.Core.dll
+/Users/adelamaceckova/living-world/engine/LivingWorld.Core/obj/Debug/net10.0/refint/LivingWorld.Core.dll
+/Users/adelamaceckova/living-world/engine/LivingWorld.Core/obj/Debug/net10.0/LivingWorld.Core.pdb
+/Users/adelamaceckova/living-world/engine/LivingWorld.Core/obj/Debug/net10.0/ref/LivingWorld.Core.dll
